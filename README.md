@@ -1,1 +1,1 @@
-# private_wordlisy
+# private_wordlist
